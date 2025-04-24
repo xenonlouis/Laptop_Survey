@@ -104,58 +104,5 @@
     "id": "9ff34a9a-2e0f-4b5e-ab13-47123aa221bb",
     "matchedToolkitId": "sfmc-windows",
     "matchScore": 0
-  },
-  {
-    "name": "Sbaxi",
-    "email": "wosibob982@jernang.com",
-    "position": "Consultant Junior",
-    "primaryRole": "developer",
-    "developmentPercentage": 50,
-    "primaryOS": null,
-    "experienceWithOtherOS": [],
-    "preferredOS": null,
-    "osPreferenceReason": "",
-    "programmingLanguages": [
-      "Python"
-    ],
-    "otherLanguages": "",
-    "developmentType": [
-      "Webdev"
-    ],
-    "otherDevelopmentType": "",
-    "resourceIntensiveEnvironments": false,
-    "multipleEnvironments": false,
-    "terminalImportance": 0,
-    "clientPresentationFrequency": "",
-    "largeDataModels": false,
-    "specializedSoftware": false,
-    "specializedSoftwareList": "",
-    "batteryLifeImportance": 0,
-    "remoteWorkFrequency": "",
-    "selectedTools": [
-      "tool-14",
-      "tool-16",
-      "tool-1",
-      "tool-18"
-    ],
-    "otherTools": "",
-    "simultaneousApplications": "",
-    "requiredPorts": [],
-    "otherPorts": "",
-    "screenSizePreference": "",
-    "dedicatedGraphicsNeeded": false,
-    "storageNeeded": "",
-    "multipleWorkspaces": false,
-    "typicalBrowserTabs": "moderate",
-    "externalDisplays": "1",
-    "resourceIntensiveApps": false,
-    "resourceIntensiveAppsList": "",
-    "accessibilityRequirements": "",
-    "securityRequirements": "",
-    "legacySoftwareRequirements": "",
-    "submittedAt": "2025-04-24T14:13:20.901Z",
-    "id": "28d2fa45-4ff3-4bea-91ca-8731c639a6e7",
-    "matchedToolkitId": "mulesoft-windows",
-    "matchScore": 16
   }
 ]
